@@ -1,0 +1,12 @@
+node_modules
+./contract/BSWToken.sol
+./contract/MaticBSWToken.sol
+_README.MD
+#Hardhat files
+cache
+artifacts
+secrets.json
+/.idea/.gitignore
+/.idea/modules.xml
+/.idea/vcs.xml
+notes.txt
